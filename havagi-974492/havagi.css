@@ -1,0 +1,739 @@
+/*ce ese ese*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
+@import url(http://fonts.googleapis.com/css?family=Great+Vibes|Cardo:400,400italic,700);
+
+@import url(https://fonts.googleapis.com/css?family=Cookie);
+
+@import url(https://fonts.googleapis.com/css?family=Rochester);
+
+.bodygym .black-font, .white-bg .txt, .grey-bg .txt {
+    color: #7D7255 !important;
+}
+.bodygym .jheader-logo {
+   margin-top: -40px;
+   margin-bottom: 40px
+}
+
+
+/*MENU*/
+/* Menu de Navegacion */
+
+.bodygym #menu-top1 .nav {
+    float: left !important;
+}
+.plantilla-public #id_option1432050{
+    display: none;
+}
+.plantilla-public #id_option1421429{
+    display: none;
+}
+.plantilla-public #id_option1422051{
+    display: none;
+}
+.bodygym .navbar-bodygym {
+    margin-bottom: 0;
+    overflow: visible;
+    background: #890024;
+}
+
+.dropdown-menu a {
+    color: #890024 !important;
+}
+
+.bodygym #menu-top1 .nav > li > a {
+    border: none;
+    padding: 13px 20px !important;
+    color: #F5F5DC !important;
+    font-size: 1.5rem;
+    background: #890024;
+    font-weight: bold;
+}
+
+.bodygym .navbar .navbar-inner {
+    display: table;
+    float: none;
+    left: 0;
+    margin: 0 auto;
+    position: static;
+    text-align: center;
+}
+
+/* Hover del Menu */
+.dropdown-menu a:hover,
+.bodygym #menu-top1 .nav > li> a:hover,
+.bodygym #menu-top1 .nav > li.active > a, 
+.bodygym #menu-top1 .nav > li.active > a:hover{
+    background: #890024 !important;
+    color: white !important;
+}
+
+/*INICIO*/
+#HCB_comment_box {
+    font-family: "arial";
+    font-weight: bold;
+    color: #7D7255;
+}
+
+#plantilla > div > div.container.top > div > form > div > button {display:none;}
+#plantilla > div > div.container.top > div > form > div {
+    padding-right: 380px;
+}
+
+#bodygym_general10 > section.section3.white-bg, #bodygym_general10 #mod10 > div > a, #mod1 > div > div.well.well-top-center > a {
+    display: none!important;
+}
+
+/*QUIENES SOMOS*/
+#bodygym_general1 > section.section5.dark-bg,
+#mod7 > a > div.name-box, #mod8 > a > div.name-box, #mod9 > a > div.name-box,
+#mod10 > a > div.name-box, #mod1 > div > div.container-interior > div {
+    display: none !important;
+}
+
+#id_option1389299 .rslides.rslides2.rslides1 {
+    margin-left: 9% !important;
+}
+
+#id_option1389299 .rslides > div {
+    width: 83%;
+}
+
+ /*
+#rslides1_s2 > img {
+    height: 677px;
+}
+
+#rslides1_s1 > img {
+    height: 600px;
+}
+
+#rslides1_s0 > img {
+    height: 871px;
+}
+*/
+
+/*FOTO CONTACTO*/
+/*#mod1 > div.span12.first-photo > div > img {
+    height: 504px!important;
+}*/
+
+/*VENTAJAS*/
+#bodygym_general9 #rslides1_s0 > img{
+    height: 250px;
+}
+
+#bodygym_general9 > section.section3.grey-bg > div, #bodygym_general9 #mod4 > div, #mod1 > div.container-interior > div {
+    display: none;
+}
+
+#id_option1390035 #rslides1_s0 > img {
+    height: 798px;
+}
+
+/*OFERTAS*/
+.slider.slider-horizontal .slider-handle.triangle {
+    border-bottom-color: #890024 !important;
+}
+
+.pagination-dropdown a.btn {
+    background: #890024;
+    border-radius: 0 !important;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+.bodygym .btn-primary, .bodygym .thumb-none .name-box .btn, .filtered-products .thumbnail .name-box .btn, .bodygym .thumb-none .caption .btn, .filtered-products .thumbnail .caption .btn {
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    float: none;
+    background: #c8f7f3;
+    background: -moz-linear-gradient(top, #c8f7f3 0%, #b7e4dd 96%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c8f7f3), color-stop(96%,#b7e4dd));
+    background: -webkit-linear-gradient(top, #c8f7f3 0%,#b7e4dd 96%);
+    background: -o-linear-gradient(top, #c8f7f3 0%,#b7e4dd 96%);
+    background: -ms-linear-gradient(top, #c8f7f3 0%,#b7e4dd 96%);
+    background: linear-gradient(to bottom, #890024 0%,#890024 96%)!important;
+}
+
+#bodygym_catalogo3 > div.dark-bg.paginator > div {
+    display: none;
+}
+
+.bodygym .container.top {
+    background: #f5f5dc repeat-x bottom !important;
+    position: static !important;
+}
+
+/*
+.bodygym .slice_menu {
+    border-bottom: 1px solid #AA1C47;
+    border-top: 1px solid #AA1C47;
+}
+*/
+ 
+.bodygym .btn {
+    border-radius: 5px!important;
+}
+
+#plantilla_cab.span3 {
+    width: 90% !important;
+	margin-top: 34px;
+	margin-bottom: 34px;
+}
+
+.plantilla_menu.span9 {
+    width: 97% !important;
+    margin-bottom: 10px !important;
+}
+
+.tabbable ul li a {
+    font-family: 'Open Sans Condensed', sans-serif !important;
+    font-weight:bold !important;
+    color: #333 !important;
+    text-transform:uppercase !important;
+    font-size:13px !important;
+}
+
+.nav-tabs > li > a, .nav-pills > li > a {
+    margin-right: 2px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.title{
+   font-family: 'arial', sans-serif ; 
+   font-weight:none;
+}
+
+.grey-bg h1, .bodygym h1 {
+    font-family: 'Cookie', cursive;
+    font-size: 2.7rem;
+    font-weight: 300!important;
+}
+
+.bodygym .search-input {
+    z-index: 999999 !important;
+    top:0 !important;
+}
+
+#plantilla_cont, .dark-bg  {
+    background: #F5F5DC !important;
+}
+
+.bodygym .input-medium, .bodygym .search-results input {
+    padding: 9px !important;
+    font-size: 2rem !important;
+    color: #FFFFFF !important;
+    background: rgb(175, 95, 95)!important;
+    opacity: 0.9;
+    border-color: #880023;
+    box-shadow: 4px -4px 5px 0px rgba(50, 50, 50, 0.75)!important;
+    border-radius: 0;
+position: absolute;
+}
+
+.bodygym .search-input button.btn, .bodygym .search-results input[type="submit"] {
+	right: -10px;
+}
+
+.bodygym .search-input button.btn {
+   background: transparent no-repeat; 
+}
+
+.bodygym .navbar-inner {
+    min-height: 33px !important;
+}
+
+#bodygym_general11 .section4 #mod6 .span12{
+    padding-bottom:10px;
+}
+
+#bodygym_general11 .section2{
+    border-bottom: 7px solid #890024;
+}
+
+#bodygym_general11 .section4 h2.title{
+    display:none;
+}
+
+#bodygym_general11 .section4 h1.title{
+	font-weight: bold!important;
+    font-family: "arial";
+    color: #B7E4DD;
+    text-align: left;
+    font-size: 2.5rem;
+}
+
+#bodygym_general11 .thumb-none{
+    border:1px solid #890024;
+    padding:20px; 
+    text-align:center;
+}
+
+#bodygym_general11 .thumb-none .name-box{
+    text-align:center;
+    position:relative;
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    transform: translateY(0%);
+}
+
+.section4 a {
+	color: #890024 !important;
+}
+
+.bodygym .thumb-none .name-box h3.title{
+    line-height: 25px;
+    height:55px;
+    text-align: left;
+    overflow:hidden;
+    text-align: center;
+    font-size: 1.4em;
+}
+
+.bodygym .thumb-none .name-box .txt p{
+    height:89px;
+    margin-bottom: 20px;
+    overflow:hidden;
+    color: #7D7255;
+    text-align: center;
+}
+
+.bodygym .btn-primary , .bodygym .thumb-none .name-box .btn, .filtered-products .thumbnail .name-box .btn, .bodygym .thumb-none .caption .btn, .filtered-products .thumbnail .caption .btn{
+	color:#fff;
+	border:none;
+	box-shadow:none;
+	float:none;
+	background: #c8f7f3;
+	background: -moz-linear-gradient(top,  #c8f7f3 0%, #b7e4dd 96%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c8f7f3), color-stop(96%,#b7e4dd));
+	background: -webkit-linear-gradient(top,  #c8f7f3 0%,#b7e4dd 96%);
+	background: -o-linear-gradient(top,  #c8f7f3 0%,#b7e4dd 96%);
+	background: -ms-linear-gradient(top,  #c8f7f3 0%,#b7e4dd 96%);
+	background: linear-gradient(to bottom,  #c8f7f3 0%,#b7e4dd 96%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8f7f3', endColorstr='#b7e4dd',GradientType=0 );
+}
+
+.bodygym.plantilla-config #menu-top1, .bodygym.plantilla-config #menu-top2, .bodygym.plantilla-config #menu-top3 {
+    width: 1050px !important;
+}
+
+.bodygym .jheader-logo2 {
+    margin-top: 0px;
+}
+
+.bodygym .btn {
+    background:  #890024;
+    box-shadow: none;
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    color:#fff;
+    text-shadow:none
+}
+
+#infocab {
+    width: 62%;
+    text-align:right;
+    float:left;
+}
+
+#infocab h2 {
+    background: #4F5567;
+    color: #FFF;
+    font-size:16px;
+    padding:5px;
+    text-align:right;
+    margin-left:400px;
+}
+
+body {
+    background: #ffffff;
+}
+
+.tab-content {
+    border-bottom: 1px solid #cccccc !important;
+}
+
+.header-bg {
+    height: 50px !important;
+}
+
+.header-bg .item-sorting .item-sorting-label {
+    color: #333333;
+}
+
+.header-bg .item-sorting {
+    bottom: -18px;
+    left: 850px;
+}
+
+#bodygym_general1 h3 {
+    font-weight: bold !important;
+    color: #4f5567  !important;
+}
+
+.es-carousel-wrapper {
+    background: #4f5567 !important;
+    box-shadow: none !important;
+}
+
+.es-carousel {
+    background:  #4f5567 !important;
+    overflow: hidden;
+}
+
+#infocab h2 {
+    background: none;
+    color: #4f5567;
+    font-size: 16px;
+    padding: 5px;
+    text-align: right;
+    margin-left: 300px;
+}
+
+.bodygym #plantilla_footer.slice_footer1 {
+	padding-top:20px;
+	min-height:100%;
+	background: #ebe4da;
+}
+
+.bodygym .thumb-cat .name-box .price {
+	line-height: 40px;
+	font-size: 1.5rem;
+	color: #CCAF81;
+}
+
+#bodygym_catalogo1 .well-top-left  {
+	height: 320px!important;
+    top: 95px!important;
+}
+
+#bodygym_catalogo1 .well-top-left .btn {
+	display: block !important;
+	margin-top:10px;
+	color:#4E5466;
+	background:#fff!important;
+}
+
+#bodygym_catalogo1 .first-photo  {
+	max-height: 500px!important;
+}
+
+#bodygym_catalogo1 .first-not .txt{
+    color: #ffffff;
+	font-family: 'Rochester', cursive;
+	line-height: 120%;
+	font-size: 20px;
+	font-size: 2rem;
+	height: 77px;
+	overflow: hidden;
+}
+
+#bodygym_catalogo1 .first-not h1 {
+    height:30px;
+}
+
+#bodygym_catalogo1 .first-not .price {
+    display:none;
+}
+
+.bodygym .thumb-200 .name-box {
+	transform: translateY(90%);
+}
+
+#id_option1309987 #mod16 .span6:first-child {
+    width:100%;
+    text-align:center;
+}
+
+#id_option1309987 #mod16 .span6:last-child, #id_option1309987 .section2 .span3:first-child, #id_option1309987 .section3 , #id_option1309987 .section5, #id_option1309987 .section6 {
+    display:none;
+}
+
+#id_option1309987 .section2 .container-interior .span3 {
+    width:30%;
+    text-align: center;
+}
+
+#bodygym_general11 .section2 .thumbnail {
+    border: none;
+    box-shadow: none;
+}
+ 
+.bodygym h3 {
+	font-family:"arial";
+    font-weight: bold;
+    color: #7D7255;
+}
+
+.grey-bg {
+    background: #f5f5dc;
+}
+
+.flexslider {
+    margin:0 auto 35px!important;
+    max-width:1100px;
+    border:none!important;
+}
+
+.flex-control-nav {
+    text-align:left!important;
+}
+
+.flex-control-paging li a {
+    box-shadow:none!important;
+    background: rgb(125, 114, 85)!important;
+}
+
+.flex-control-nav li {
+    margin: 0 3px!important;
+}
+
+.flex-control-paging li a.flex-active {
+    background: #890024!important;
+}
+
+.bodygym #plantilla_footer.slice_footer1 h3 {
+    line-height: 25px;
+    color: #890024;
+    font-size: 2rem;
+    font-family: "arial";
+    margin-bottom:15px;
+    font-weight: bold;
+}
+
+.bodygym #plantilla_footer p, 
+.bodygym #plantilla_footer a, 
+.bodygym #plantilla_footer li a, 
+.bodygym #plantilla_footer li {
+    color: #890024;
+    font-weight: bold;
+    font-size: 110%;
+}
+
+@media (max-width : 960px) {
+	.search-input.form-search {
+		display: none;
+	}
+	
+	.bodygym .well-top-left {
+		height: auto;
+		width: 100% !important;
+	}
+
+	.bodygym .black-font, .white-bg .txt, .grey-bg .txt {
+		color: #A99B78;
+		font-size: 4.3rem;
+	}
+	
+	.bodygym .black-font, .white-bg .txt, .grey-bg .txt {
+		color: #7D7255;
+		font-size: 3.3rem;
+	}
+	
+    .bodygym .jheader-logo {
+		text-align: center;
+		float: none;
+		padding-top: 210px;
+	}
+	
+	#id_option1389299 .bodygym #mod3 .well-offer h1 {
+		margin-top: 0px;
+	}
+
+	#infocab {
+		display: none !important;
+	}
+	
+	.bodygym .well-top-left h1{
+		color:#111;
+	}
+ 
+	.bodygym .well-top-left p {
+		color: #111;
+	}
+}
+
+/* mods 26 - 01 - 16 */
+
+#prev_ribbon, #id_option1389299 #mod3 .txt, #id_option1389299 #mod3 .btn {
+    display: none;
+}
+
+.white-bg {
+	background: #f5f5dc;
+}
+
+
+#id_option1390035 div.rslides {
+	max-height: 500px !important;
+}
+
+.thumb-white {
+	background: #890024;
+}
+
+#id_option1389304 div.first-photo {
+	max-height: 600px !important;
+}
+
+.bodygym .prod-rel .related-name {
+    height: 75px;
+}
+
+.prod-amp .price, .bodygym .prod-rel .related-price {
+    color: #890024;
+}
+
+#plantilla > div > div.container.top > div.container-interior {
+	max-width: 100%;
+}
+
+.buhos {
+	position: absolute;
+	height: 244px;
+	margin-left: -2px;
+}
+
+#id_option1389299 #mod20 > a > div > img,
+#id_option1389299 #mod21 > a > div > img,
+#id_option1389299 #mod22 > a > div > img,
+#id_option1389299 #mod23 > a > div > img,
+#id_option1389299 #mod24 > a > div > img {
+	border-radius: 50%;
+}
+
+#id_option1389299 .bodygym .thumb-none, 
+#id_option1389299 .filtered-products .thumbnail {
+	background: #F5F5DC;
+}
+
+#id_option1389299 .bodygym .thumb-none .name-box, 
+#id_option1389299 .filtered-products .thumbnail .name-box, 
+#id_option1389299 .bodygym .thumb-none .caption,
+#id_option1389299 .filtered-products .thumbnail .caption {
+	position: initial;
+	background: #F5F5DC;
+}
+
+#id_option1389299 .bodygym .thumb-none,
+#id_option1389299 .filtered-products .thumbnail,
+#id_option1389299 .bodygym .thumb-none .name-box h3.title {
+	height: auto;
+}
+
+#id_option1389299 .bodygym .thumb-none .name-box h3.title, 
+#id_option1389299 .filtered-products .thumbnail .name-box h3.title, 
+#id_option1389299 .bodygym .thumb-none .caption h3.title, 
+#id_option1389299 .filtered-products .thumbnail .caption h3.title {
+	padding-bottom: 0px !important;
+}
+
+#id_option1389299 .bodygym .thumb-none:hover img,
+#id_option1389299 .filtered-products .thumbnail:hover img,
+#id_option1389299 .bodygym .thumb-none:hover .name-box,
+#id_option1389299 .filtered-products .thumbnail:hover .name-box,
+#id_option1389299 .bodygym .thumb-none:hover .caption,
+#id_option1389299 .filtered-products .thumbnail:hover .caption,
+#id_option1389299 .bodygym .thumb-200 .name-box,
+#id_option1389299 .bodygym .thumb-none .name-box,
+#id_option1389299 .filtered-products .thumbnail .name-box,
+#id_option1389299 .bodygym .thumb-none .caption,
+#id_option1389299 .filtered-products .thumbnail .caption {
+	-webkit-transform: none;
+	-moz-transform: none;
+	-ms-transform: none;
+	-o-transform: none;
+	transform: none;
+	transition: none;
+}
+
+/* cuadros debajo del banner */
+
+#id_option1389299 #bodygym_general1 > section.section2.dark-bg > div > div.breadcrumb-simple.breadcrumb-gen1 {
+	padding-top: 0px !important;
+	padding: 0 !important;
+}
+
+.pluma img {
+	height: 200px;
+}
+
+#id_option1389299 .bodygym #mod3 .well-offer h1 {
+    height: 150px;
+	padding-top: 150px;
+	margin-top: -68px;
+}
+
+#id_option1389299 #mod3 > div > h1 {
+    background: url("http://www.mimbreregalos.es/content/974492/cartel.png") no-repeat top;
+	background-size: contain;
+	color: #F5F5DC !important;
+	font-size: 4rem;
+}
+
+#id_option1389299 .bodygym #mod2 .well-offer h1, #id_option1389299 .bodygym #mod4 .well-offer h1 {
+	height: 100%;
+}
+
+#id_option1389299 #mod3 .well-offer {
+	border: none !important;
+	background: none;
+}
+
+.bodygym .well-offer p {
+	height: 100%;
+}
+
+#id_option1389299 .well {
+	max-height: 100%;
+}
+
+.bodygym .well-top-left .btn {
+    display: none !important;
+}
+
+.bodygym .well-offer {
+    background: rgba(255,255,255,0.2);
+	border: 1px solid #890024 !important;
+}
+
+.bodygym .well-offer h1, .white-bg h1, .bodygym .well-offer-big h1, 
+#mod5 > div:nth-child(1) > h1, #mod6 > div > h1, #mod2 > div:nth-child(1) > div > div > h1,
+#mod2 > h1, #mod3 > h1 {
+	color: #890024 !important;
+    font-weight: bold !important;
+}
+
+.well {
+    border: 0 none !important;
+    box-shadow: none !important;
+	border-radius: 35px;
+}
+
+.bodygym .well-top-left {
+    width: 100%;
+    text-align: center;
+    top: 0px!important;
+    height: 440px;
+    background: rgba(255,255,255,0.2)!important;
+    border-radius: 0!important;
+}
+
+.bodygym .well-top-left .btn {
+    float: none !important;
+}
+
+.bodygym .well-top-left h1 {
+    margin-bottom:20px !important;
+    font-weight: bold !important;
+    line-height:40px;
+}
+.bodygym .thumb-amp, .filtered-products .thumbnail {
+    height: 410px;
+}
