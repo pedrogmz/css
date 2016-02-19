@@ -1,0 +1,199 @@
+/* CSS */
+/*barra de navegación*/
+.bodygym .dark-bg.header-bg{
+    background: white;
+  padding-top: 0px;
+  padding-bottom: 0px;}
+  
+.bodygym .jheader-logo {
+    /*position: absolute;*/
+    text-align: center;}
+
+.bodygym .container.top {
+    /* top: 15px; 
+  padding-top: 15px; */
+  border-radius: 15px;
+    background: #0099d6; /* Old browsers */
+background: -moz-linear-gradient(top, #0099d6 0%, #00798e 40%, #002e4c 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #0099d6 0%,#00798e 40%,#002e4c 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #0099d6 0%,#00798e 40%,#002e4c 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0099d6', endColorstr='#002e4c',GradientType=0 ); /* IE6-9 */
+}
+  
+.bodygym #menu-top2 .nav > li > a {color:black; padding: 10px 10px;margin-top: 34px;}
+.bodygym #menu-top2 .nav > li > a:hover {background:white;color:#002E4C; border-radius: 15px 0px; box-shadow: 5px 6px rgba(0, 0, 0, 0.36); }
+.bodygym #menu-top2 .nav > li.active > a, .bodygym #menu-top2 .nav > li.active > a:hover, .bodygym #menu-top2.nav > li > a:hover {background:white;color:#002E4C; border-radius: 15px 0px; box-shadow: 5px 6px rgba(0, 0, 0, 0.36); }
+.bodygym #menu-top2 .nav li ul li.active >a,.bodygym #menu-top2 .nav li ul li.active >a:hover, .bodygym #menu-top2 .nav li ul li > a:hover{background:white;color: #002E4C;}
+.bodygym #menu-top2 .nav li ul li >a{border:1px solid white;background:#002E4C;color: white; border-radius: 15px;}
+
+/*inicio*/
+#bodygym_general14 > .section3.dark-bg {background: url(http://acceso.siweb.es/content/973245/fondo2.png);}
+#bodygym_general14 > .white-bg {
+    width: 100%;
+    height: 100%;
+    background: #DEDEDE;
+    position: inherit;}
+    .bodygym .well-top-left .btn {background:white;
+    color:#002E4C;}
+/*quienes somos*/
+
+/*
+#bodygym_general9 > .white-bg .row-fluid .span6 {     //sobre nosotros
+    width: 106.717949%;
+}
+*/
+
+#bodygym_general10  > .section2.dark-bg {background: #DEDEDE;}
+#bodygym_general10  > .section2.dark-bg .row-fluid .span7 {/*juntadirectiva*/
+    width: 103.264957%;
+}
+#bodygym_general10 > section.section4.dark-bg {background: url(http://acceso.siweb.es/content/973245/fondo2.png)}
+/*#bodygym_general3 > section.section2.white-bg #mod2 > div:nth-child(1).span6 {
+    width: 107.717949%;}*/
+    
+/*Servicioss*/
+#bodygym_general7 > section.section3.dark-bg {background: url(http://acceso.siweb.es/content/973245/fondo2.png)}
+.bodygym .well-offer-big h1 {
+    color: #093A6C;}
+/*Directorio*/
+#bodygym_general1 > .section.grey-bd .row-fluid .span6.padding-span {
+    width: 93.717949%;}
+/*noticias*/
+#bodygym_noticias2 > div.dark-bg.paginator  {background: url(http://acceso.siweb.es/content/973245/fondo2.png)}
+    
+/*contacto*/    
+#bodygym_general5 > section.section3.dark-bg{background: url(http://acceso.siweb.es/content/973245/fondo2.png)}
+
+
+
+
+/*Secciones ocultas*/
+.bodygym .search-input {display: none; }
+#bodygym_general14 > section.section4.grey-bg {display:none;}
+#bodygym_general14 > section.section5.dark-bg {display:none;}
+/*#bodygym_general9 > section.section3.grey-bg {display:none;}*/
+#bodygym_general9 > section.section4.dark-bg {display:none;}
+#bodygym_general10 > section.section3.white-bg {display:none;}
+#bodygym_general10 > section.white-bg.section5 {display:none;}
+#bodygym_general10 > section.section4.dark-bg {display:none;}
+.bodygym .well-top-center .btn {display:none;}
+#bodygym_general3 > section.section3.grey-bg {display:none;}
+#bodygym_general3 > section.section4.dark-bg {display:none;}
+/*#bodygym_general3 > section.section2.white-bg #mod2 > div:nth-child(2){display:none;}*/
+#bodygym_general12 > section.section4.dark-bg {display:none;}
+#bodygym_general7 > section.section2.white-bg > div > div:nth-child(3) > ul {display:none;}
+#bodygym_general7 > section.section4.grey-bg {display:none;}
+#bodygym_general7 > section.section5.dark-bg {display:none;}
+#bodygym_general1 > section.section4.white-bg {display:none;}
+#bodygym_general1 > section.section5.dark-bg {display:none;}
+#bodygym_general1 > section.section2.dark-bg {display:none;}
+#bodygym_general5 > #mod1 .rslides {display:none;}
+#bodygym_general5 > section.section4.grey-bg > div > div:nth-child(2) {display:none;}
+#bodygym_general5 > section.section4.grey-bg > div > div:nth-child(3) {display:none;}
+#bodygym_general5 > section.section3.dark-bg > div > div {display:none;}
+#mod11 > div > a{Display:none;}
+
+ /*footer*/
+.bodygym #plantilla_footer.slice_footer1 {
+    background: url(http://acceso.siweb.es/content/973245/fondo.png);
+    min-height: 100%;
+}
+
+/* mods 26 - 01 - 2016 */
+
+.bodygym .thumb-none .name-box h3.title,
+.filtered-products .thumbnail .name-box h3.title,
+.bodygym .thumb-none .caption h3.title,
+.filtered-products .thumbnail .caption h3.title {
+    height: auto;
+    line-height: 20px;
+}
+
+.bodygym .thumb-none .name-box,
+.filtered-products .thumbnail .name-box,
+.bodygym .thumb-none .caption,
+.filtered-products .thumbnail .caption {
+    position: static !important;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+    transition: none;
+}
+
+.bodygym .thumb-none img,
+.filtered-products .thumbnail img {
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+	-o-transform: none;
+	transform: none;
+	transition: none;
+}
+
+.bodygym .thumb-none:hover img,
+.filtered-products .thumbnail:hover img {
+	-webkit-transform: none;
+	-moz-transform: none;
+	-ms-transform: none;
+	-o-transform: none;
+	transform: none;
+	transition: none;
+}
+
+#id_option1351597 .bodygym .thumb-none,
+#id_option1351597 .filtered-products .thumbnail {
+	height: auto;
+}
+
+#id_option1351597 .section2 #mod6, #id_option1351600 .section3, 
+#id_option1352941 #bodygym_contacto2 > section.white-bg.cont-1, #id_option1351603 #bodygym_contacto2 > section.white-bg.cont-1,
+#id_option1352927 .section3 {
+    display: none;
+}
+
+.bodygym .container.top {
+    top: 0px;
+    padding-top: 0px;
+}
+
+.bodygym .jheader-logo2 {
+    margin-top: 0px;
+    height: auto;
+    position: static;
+}
+
+.bodygym #menu-top2 .dropdown-menu a,
+.bodygym #menu-top2 ul.dropdown-menu li ul li a {
+    width: auto;
+}
+
+#id_option1352928 .rslides2.rslides.rslides1 {
+    max-height: 250px !important;
+}
+
+#id_option1352928 .bodygym .well-top-center {
+    left: -19%;
+}
+
+#id_option1351597 .section1 {
+    margin-top: 78px;
+}
+
+.bodygym .jheader {
+    max-width: 50%;
+    min-width: 0;
+}
+
+#id_option1351600 .section4 {
+    display: block !important;
+}
+
+#id_option1352942 .grey-bg .date, #id_option1352942 .white-bg .date {
+    margin-top: 25px;
+}
+
+#id_option1352942 .txt {
+    min-height: auto !important;
+}
